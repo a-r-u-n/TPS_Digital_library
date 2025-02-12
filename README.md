@@ -11,10 +11,10 @@ The digital library website is built using PHP for the back-end, with HTML, CSS,
 The digital library website hosts eBooks directly on the platform, with all eBooks available in EPUB format for a comfortable reading experience. Users can read the books using the built-in reader, powered by the EPUB.js library (http://epubjs.org/documentation/0.3/). Additionally, we have implemented zoom-in and zoom-out functions to adjust the page size.
 
 **Digital library Website Pages**
-Home Page
-Ebooks
-Question Bank and Study materials
-Creative Corner
-Other Resources page
-Feedback
+- Home Page
+* Ebooks
++ Question Bank and Study materials
+- Creative Corner
+* Other Resources page
++ Feedback
 
