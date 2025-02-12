@@ -1,0 +1,70 @@
+.question-bank {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.question-bank h2{
+    color: #3A3386;
+    
+}
+#yearwisetitle{
+    color: #3A3386;
+    
+}
+#main-title{
+    text-align: center;
+    color: #3A3386;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #3A3386;
+}
+
+table {
+    width: 80%;
+    margin:  auto;
+    border-collapse: collapse;
+    background-color: #FFFFFF;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+table th, table td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #dddddd;
+}
+
+table th {
+    background-color: #3A3386;
+    color: #FFFFFF;
+    font-size: 1.2rem;
+}
+.papersContainer h2{
+    color: #3A3386;
+    margin: 0;
+    
+}
+table td a {
+    text-decoration: none;
+    color: #3A3386;
+    font-weight: bold;
+}
+
+table td a:hover {
+    text-decoration: underline;
+}
+
+table tbody tr:nth-child(even){
+    background-color: #f9f9f9;
+}
+.hidden{
+    display:none;
+}

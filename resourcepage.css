@@ -1,0 +1,26 @@
+h2 {
+    color: #2c3e50;
+}
+
+.resource-section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.resource-section h2 {
+    border-bottom: 2px solid #2c3e50;
+    padding-bottom: 10px;
+}
+.resource-section p {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+.resource-section a {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: bold;
+}
+.resource-section a:hover {
+    text-decoration: underline;
+}
